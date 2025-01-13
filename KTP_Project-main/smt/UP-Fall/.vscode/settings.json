@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "absdiff",
+        "annot",
+        "cmap",
+        "cudnn",
+        "downsample",
+        "Downsampling",
+        "dtype",
+        "Farneback",
+        "figsize",
+        "fontsize",
+        "gelu",
+        "hconcat",
+        "imread",
+        "imshow",
+        "MINMAX",
+        "nparray",
+        "optim",
+        "subfolders",
+        "ultralytics",
+        "winsize",
+        "xticklabels",
+        "xticks",
+        "YOLO",
+        "yticklabels",
+        "yticks"
+    ]
+}
