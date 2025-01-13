@@ -1,0 +1,2 @@
+Generate Sythetic video data for fall detection models
+This project generates synthetic videos of human falls in indoor environments using Unity. The goal is to create diverse, realistic datasets with various avatars, fall scenarios, camera angles, and lighting conditions. These videos are intended to support the training of fall detection models. The project emphasizes automation for efficiency, enabling streamlined scenario creation and video recording.
